@@ -1,0 +1,12 @@
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.exe
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.deps.json
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.runtimeconfig.json
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.runtimeconfig.dev.json
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.dll
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\bin\Debug\netcoreapp3.1\Unit_4.pdb
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.AssemblyInfoInputs.cache
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.AssemblyInfo.cs
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.csproj.CoreCompileInputs.cache
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.dll
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.pdb
+C:\Users\sergey.zheleznyak\source\repos\Unit_4\Unit_4\obj\Debug\netcoreapp3.1\Unit_4.genruntimeconfig.cache
